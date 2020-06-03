@@ -3,3 +3,6 @@
 
 # TO IGNORE ALL .H5 FILES
 *.h5
+
+# IGNORE CHECKPOINTS
+.ipynb_checkpoints
