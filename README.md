@@ -76,7 +76,6 @@ Brief description of the files
         - Check H5 Data
 		
 #### _Approach Taken:_
-Steps:
 1. Download the catVSdog datasets from kaggle https://www.kaggle.com/tongpython/cat-and-dog
 2. As the dataset only provides train and test datasets, we will split the test set into half
 3. The other half will go to the dev set for notebook CatVSDog10.ipynb and CatVSDog11.ipynb
