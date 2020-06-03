@@ -93,17 +93,17 @@ Brief description of the files
         - Check H5 Data
 		
 #### _Approach Taken:_
-Steps:
-	1. Download the catVSdog datasets from kaggle https://www.kaggle.com/tongpython/cat-and-dog
-	2. As the dataset only provides train and test datasets, we will split the test set into half
-	3. The other half will go to the dev set for notebook CatVSDog10.ipynb and CatVSDog11.ipynb
-	4. Place the images into ./datasets according to the file structure above
-	5. Briefly checked the photos and scrap some cats and dogs images from search engine such that these images do not appear in either of the sets
-	6. Place the images into the ./images folder as shown in the file structure above
-	7. Run Data Pre-processing Binary Classifier.ipynb to obtain the train, dev and test .h5 datasets
-	8. Run CatVSDog09.ipynb, CatVSDog10.ipynb and CatVSDog11.ipynb to obtain its accuracy
+  Steps:
+	- Download the catVSdog datasets from kaggle https://www.kaggle.com/tongpython/cat-and-dog
+	- As the dataset only provides train and test datasets, we will split the test set into half
+	- The other half will go to the dev set for notebook CatVSDog10.ipynb and CatVSDog11.ipynb
+	- Place the images into ./datasets according to the file structure above
+	- Briefly checked the photos and scrap some cats and dogs images from search engine such that these images do not appear in either of the sets
+	- Place the images into the ./images folder as shown in the file structure above
+	- Run Data Pre-processing Binary Classifier.ipynb to obtain the train, dev and test .h5 datasets
+	- Run CatVSDog09.ipynb, CatVSDog10.ipynb and CatVSDog11.ipynb to obtain its accuracy
 	
 #### _References:_
-Kaggle: https://www.kaggle.com/tongpython/cat-and-dog
-Andrew Ng's Deep Learning Specialisation: https://www.coursera.org/specializations/deep-learning
-Hoang Viet: https://github.com/TheMarvelousWhale
+- Kaggle: https://www.kaggle.com/tongpython/cat-and-dog
+- Andrew Ng's Deep Learning Specialisation: https://www.coursera.org/specializations/deep-learning
+- Hoang Viet: https://github.com/TheMarvelousWhale
