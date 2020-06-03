@@ -5,7 +5,7 @@
 #### _This repository contains:_
   - File Structure of the initial setup
   - Data Pre-processing
-  - Training of 3 deep learning model
+  - Training of the 3 deep learning models
 
 #### _File Structure:_
 ```
