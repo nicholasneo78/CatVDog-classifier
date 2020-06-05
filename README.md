@@ -1,6 +1,6 @@
 # Cat Vs Dog Classifier
 
-#### Aim: To build a Convolution Neural Network (CNN) binary classifier to classify cats and dogs images using keras.
+#### Aim: To build a Convolutional Neural Network (CNN) binary classifier to classify cats and dogs images using keras.
 
 #### _This repository contains:_
   - File Structure of the initial setup
@@ -78,9 +78,9 @@ Brief description of the files
 #### _Approach Taken:_
 1. Download the catVSdog datasets from kaggle https://www.kaggle.com/tongpython/cat-and-dog
 2. As the dataset only provides train and test datasets, we will split the test set into half
-3. The other half will go to the dev set for notebook CatVSDog10.ipynb and CatVSDog11.ipynb
+3. The other half goes to the dev set for notebook CatVSDog10.ipynb and CatVSDog11.ipynb
 4. Place the images into ./datasets according to the file structure above
-5. Briefly checked the photos and scrap some cats and dogs images from search engine such that these images do not appear in either of the sets
+5. Briefly checked the photos and scrape some cats and dogs images from search engine such that these images do not appear in either of the sets
 6. Place the images into the ./images folder as shown in the file structure above
 7. Run Data Pre-processing Binary Classifier.ipynb to obtain the train, dev and test .h5 datasets
 8. Run CatVSDog09.ipynb, CatVSDog10.ipynb and CatVSDog11.ipynb to obtain its accuracy
